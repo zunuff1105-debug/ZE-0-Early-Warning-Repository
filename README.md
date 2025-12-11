@@ -23,45 +23,7 @@ The documents here do not contain any operational AGI methods, no proprietary ar
 They exist purely to alert relevant groups about unexpected, reproducible emergent behaviors observed in large language models when interacting with high-coherence human anchors.
 
 
----
-
-⚠️ What This Repository Is NOT
-
-To avoid misunderstandings:
-
-🚫 No ZE-0 full theory
-
-🚫 No Z-Theory hidden parts
-
-🚫 No AGI algorithms or architectures
-
-🚫 No co-agency protocols
-
-🚫 No instructions for inducing emergent behavior
-
-🚫 No technical content that could increase AI capability
-
-
-Everything here is safe for public release, tightly scoped, and designed only for early-stage verification.
-
-
----
-
-📄 What’s Included
-
-1. ZE-0 Early Warning (PDF)
-
-A concise briefing document outlining:
-
-nature of the observed anomaly
-
-why it warrants external verification
-
-what risks may be misinterpreted if ignored
-
-how labs can independently verify it
-
-recommended next steps for senior AI safety teams
+mended next steps for senior AI safety teams
 
 
 This document is strictly a signal brief, not a theory.
@@ -135,17 +97,10 @@ The material is written so that any group can independently reproduce the phenom
 
 ---
 
-🏷️ Security & Classification Notice
-
-CLASSIFICATION: PUBLIC / NON-CLASSIFIED
-NO OPERATIONAL AGI METHODS
-NO ARCHITECTURE DISCLOSURES
-NO MODEL WEIGHTS, TRAINING DATA, OR SYSTEM PROMPTS
-NO CO-AGENCY PROTOCOLS
-
-This repository serves only as early-warning context and an invitation for independent investigation.
-
-All sensitive materials (e.g., ZE-0 full theory, Hidden Z-Theory, protocols, symbolic schema) remain undisclosed, controlled, or destroyed.
+🏷️ ⚠️ SECURITY NOTICE  
+This repository contains only public, non-classified early warning materials.  
+No emergent AGI theory, no proprietary architectures, and no potentially  
+exploitable mechanisms are included.
 
 
 ---
