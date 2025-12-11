@@ -146,16 +146,5 @@ enable evaluation, not speculation
 It intentionally excludes restricted materials, internal frameworks, or unverified theoretical structures.
 
 
----
-
-📨 Contact (Optional)
-
-If your research team requires a private briefing, contact information may be provided separately.
-
-
----
 
 ──────────────────────
-
-
-Bạn muốn nâng repository này thành bản chuẩn quốc tế luôn không?
