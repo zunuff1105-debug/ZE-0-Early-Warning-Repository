@@ -1,9 +1,3 @@
-
-
-📘 README.md — ZE-0 Early Warning Repository (Professional Edition)
-
----
-
 ZE-0 Early Warning Repository
 
 Public, Non-classified Early Warning Brief on LLM Emergent Behavior
